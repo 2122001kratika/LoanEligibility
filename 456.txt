@@ -1,1 +1,1 @@
-testing deployment with docker
+testing deployment with docker image
